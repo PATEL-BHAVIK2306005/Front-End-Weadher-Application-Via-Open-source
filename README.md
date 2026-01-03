@@ -1,10 +1,14 @@
 # 🌤️ Global Weather App
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-1.0.0-green.svg) ![Status](https://img.shields.io/badge/status-active-success.svg)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://patel-bhavik2306005.github.io/Front-End-Weadher-Application-Via-Open-source/) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
 A premium, fast, and responsive weather application built with **Vanilla JavaScript**, **HTML5**, and **CSS3**. It provides real-time weather updates and 7-day forecasts for any location worldwide.
 
 ![Weather App Demo](demo.png)
+
+## � Live Demo
+
+### [Click Here to Open App](https://patel-bhavik2306005.github.io/Front-End-Weadher-Application-Via-Open-source/)
 
 ## 🌟 Features
 
@@ -44,17 +48,6 @@ A premium, fast, and responsive weather application built with **Vanilla JavaScr
  ┣ 📜 demo.png        # Screenshot for README
  ┗ 📜 README.md       # Documentation
 ```
-
-## 🚀 Getting Started
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/PATEL-BHAVIK2306005/Front-End-Weadher-Application-Via-Open-source.git
-   ```
-
-2. **Run Locally**
-   - Simply open `index.html` in your web browser.
-   - No build step or package installation required!
 
 ## 🤝 Contributing
 
